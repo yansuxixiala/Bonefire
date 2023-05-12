@@ -1,0 +1,11 @@
+ .productstyle {
+    border: 5px solid black;
+    margin-top: 50px;
+} 
+
+
+h1,h2,h6,h4 {
+    /* text-align: center; */
+    color: whitesmoke
+    
+}

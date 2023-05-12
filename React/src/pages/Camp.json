@@ -1,0 +1,4 @@
+[
+    {"id" : 1, "name" : "金山驛境", "price" : 1000, "image" : "金山驛境.jpg", "description" : "很多樹的露營區"},
+    {"id" : 2, "name" : "茂升山林露營區", "price" : 1000, "image" : "茂升山林露營區.jpg", "description" : "很多松樹的露營區"}
+                    ]
